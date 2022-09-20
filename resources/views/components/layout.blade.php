@@ -63,7 +63,7 @@
                 <li><a href="/wedo" class="nav-link {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
                 <li><a href="#" class="nav-link {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
                 <li><a href="/apoyanos" class="nav-link {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
-                <li><a href="contactanos" class="nav-link {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
+                <li><a href="/contactanos" class="nav-link {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
                 <li class="list_icon">
                     <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
                         height="30px"></a>

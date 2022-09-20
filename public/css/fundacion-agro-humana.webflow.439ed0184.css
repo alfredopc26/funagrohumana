@@ -1573,6 +1573,10 @@ figcaption {
   margin-bottom: 12px;
 }
 
+.w-form{
+    padding: 0px 50px;
+}
+
 .hero-form-container {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2004,6 +2008,13 @@ figcaption {
   white-space: normal;
 }
 
+.text-center-25 {
+    color: #989898;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
 .grid {
   grid-auto-flow: column dense;
   grid-column-gap: 16px;
@@ -2016,7 +2027,6 @@ figcaption {
 
 .grid-2 {
   margin-top: 27px;
-  padding-top: 35px;
   padding-bottom: 35px;
   padding-left: 0px;
   -webkit-box-pack: end;
@@ -2576,6 +2586,30 @@ figcaption {
   background-size: 100% 100%;
 }
 
+.text-center{
+    text-align: center;
+}
+
+.title-green-25{
+    font-size: 25px;
+    color: #47ad4c;
+    font-weight: 800;
+}
+
+.title-green-35{
+    font-size: 35px;
+    color: #47ad4c;
+    font-weight: 800;
+}
+
+.separator-vertical{
+    display: none;
+}
+
+.wf-section{
+    margin-bottom: 70px;
+}
+
 @media screen and (min-width: 1280px) {
   .mobile{
     display: none;
@@ -3048,6 +3082,12 @@ figcaption {
 
   .footer-content {
     grid-column-gap: 60px;
+  }
+
+  .separator-vertical{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 }
 
@@ -3559,6 +3599,31 @@ figcaption {
   .img-circle {
     width: 60px;
   }
+
+  .text-block-5 {
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    padding-right: 20px;
+    padding-left: 0px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    border-right: 0px solid #000;
+    font-family: 'Gotham book', sans-serif;
+  }
+
+  .w-form{
+    padding: 0px 0px;
+  }
+
 }
 
 @media screen and (max-width: 479px) {

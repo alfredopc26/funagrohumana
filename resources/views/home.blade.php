@@ -17,8 +17,8 @@
                     class="green-title cite"><strong>DALAI LAMA</strong></span></blockquote>
         </div>
     </div>
-    <div class="wf-section">
-        <div class="text-block"><span class="text-span">TRABAJANDO CON LA COMUNIDAD</span></div>
+    <div class="wf-section text-center">
+        <span class="title-green-25">TRABAJANDO CON LA COMUNIDAD</span>
     </div>
     <div class="w-layout-grid grid-2"><img src="images/6312b5f91d848b2b2c63853f_logo_1.png" loading="lazy"
             id="w-node-_004316a6-eb88-ed66-3066-5876d801fefc-ec556db0" width="60"
@@ -64,6 +64,7 @@
                         style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto"
                         allow="autoplay; encrypted-media" allowfullscreen title="Agrotrac del caribe"></iframe></div>
             </div>
+            <div class="w-col w-col-6 separator-vertical"></div>
             <div class="w-col w-col-6">
                 <div class="w-layout-grid grid-3"><img src="images/6314f17c482ba7a0c28106e2_logo_8.png" loading="lazy"
                         width="120" id="w-node-_95230553-e388-6e23-93e9-ac3f31a3ac26-ec556db0"
@@ -87,8 +88,10 @@
                         srcset="images/6314f17cf920dd3a6a2063a6_logo_11-p-500.png 500w, images/6314f17cf920dd3a6a2063a6_logo_11-p-800.png 800w, images/6314f17cf920dd3a6a2063a6_logo_11.png 826w"
                         alt><span id="w-node-_11394958-2486-bc99-4a3e-3d69f4714d07-ec556db0"
                         class="button-see-all w-button">Ver todo</span>
-                    <h1 id="w-node-e5d9b571-2a3d-793c-7225-d19f8b9ebe50-ec556db0" class="title-2">Blog y galería de
-                        actividades</h1>
+                        <div class="wf-section text-center" id="w-node-e5d9b571-2a3d-793c-7225-d19f8b9ebe50-ec556db0">
+                            <span class="title-green-25">Blog y galería de
+                                actividades</span>
+                        </div>
                 </div>
             </div>
         </div>
@@ -96,10 +99,10 @@
     <section class="hero-without-image wf-section">
         <div class="container-2">
             <div class="hero-wrapper-two-2">
-                <h1 class="heading-3">EXPONGA SUS NECESIDADES</h1>
-                <p class="margin-bottom-24px">Escríbenos para conocer sus necesidades y así poder darle iniciativa</p><a
-                    href="#w-node-c1fa688e-bd46-f7c3-a60f-cbb4ba7b329e-ec556db0" class="contact-button w-button"><span class="tex-button"><strong
-                            class="bold-text-4">CONTÁCTENOS</strong></span></a>
+                <span class="title-green-35">EXPONGA SUS NECESIDADES</span>
+                <span class="text-center-25">Escríbenos para conocer sus necesidades y así poder darle iniciativa</span><a
+                    href="/contactanos" class="contact-button w-button"><span class="tex-button"><strong
+                            class="bold-text-4" >CONTÁCTENOS</strong></span></a>
             </div>
         </div>
     </section>
