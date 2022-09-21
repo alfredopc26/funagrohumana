@@ -43,7 +43,7 @@
     </style>
 </head>
 <body class="body">
-    <a href="https://wa.me/573002193470" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/573102494261" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navigation w-nav">
         <div class="navigation-items"><img
@@ -86,7 +86,7 @@
                             <li>Carrera 23 No. 32B-14 Sabanalarga (Atlántico)</li>
                             <li>Calle 110 No. 6-361 Local 11 Barranquilla (Atlántico)</li>
                         </ul>
-                        <a class="address-aditional" href="https://api.whatsapp.com/send?phone=3002193470&text=Hola,%20encontre%20este%20contacto%20en%20la%20p%C3%A1gina%20web" target="_blank">
+                        <a class="address-aditional" href="https://api.whatsapp.com/send?phone=3102494261&text=Hola,%20encontre%20este%20contacto%20en%20la%20p%C3%A1gina%20web" target="_blank">
                             <img src="./images/whasapp_icon.png" alt="whatsapp icon" height="20" width="20">
                             <p> 310 249 4261</p>
                         </a>
