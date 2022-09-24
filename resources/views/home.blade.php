@@ -20,7 +20,7 @@
     <div class="wf-section">
         <div class="text-block"><span class="text-span">TRABAJANDO CON LA COMUNIDAD</span></div>
     </div>
-    <div class="container text-center my-5">
+    <div class="container text-center my-5 d-none d-sm-block">
         <div class="row">
           <div class="col align-items-center d-flex flex-column">
             <img src="images/6312b5f91d848b2b2c63853f_logo_1.png" loading="lazy"
@@ -71,7 +71,61 @@
             <span class="text-block-3">Comunidades</span>
           </div>
         </div>
-      </div>
+    </div>
+    <div class="container text-center my-5 d-block d-sm-none">
+        <div class="row">
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6312b5f91d848b2b2c63853f_logo_1.png" loading="lazy"
+            id="w-node-_004316a6-eb88-ed66-3066-5876d801fefc-ec556db0" width="60"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6312b5f91d848b2b2c63853f_logo_1-p-500.png 500w, images/6312b5f91d848b2b2c63853f_logo_1.png 722w"
+            alt class="img-circle">
+            <span class="text-block-3">Hacia la reactivación del campo</span>
+          </div>
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6312b84d5a579ccd536d00bf_logo_2.png" loading="lazy" width="120"
+            id="w-node-b4602e6b-11c0-843e-8cd8-43f66641e1e1-ec556db0"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6312b84d5a579ccd536d00bf_logo_2-p-500.png 500w, images/6312b84d5a579ccd536d00bf_logo_2.png 722w"
+            alt class="img-circle">
+            <span class="text-block-3">Solidarios con el campo</span>
+          </div>
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6312b84dfa57c2e65992d8a2_logo_3.png" loading="lazy" width="120"
+            id="w-node-ae32397b-c8c2-dc87-8a45-f17fe5026e13-ec556db0"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6312b84dfa57c2e65992d8a2_logo_3-p-500.png 500w, images/6312b84dfa57c2e65992d8a2_logo_3.png 722w"
+            alt class="img-circle">
+            <span class="text-block-3">Capacitaciones</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6314ef01cf6f3b357343adbc_logo_5.png" loading="lazy" width="120"
+            id="w-node-_2f384935-823e-d451-c003-8437e4d5fcb9-ec556db0"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6314ef01cf6f3b357343adbc_logo_5-p-500.png 500w, images/6314ef01cf6f3b357343adbc_logo_5.png 719w"
+            alt class="img-circle">
+            <span class="text-block-3">Asociaciones Campesinas</span>
+          </div>
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6314ef01617b3d83cd89de94_logo_6.png" loading="lazy"
+            id="w-node-b9fcbcd8-4ed3-c44e-04a8-848026105de0-ec556db0" width="120"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6314ef01617b3d83cd89de94_logo_6-p-500.png 500w, images/6314ef01617b3d83cd89de94_logo_6.png 719w"
+            alt class="img-circle">
+            <span class="text-block-3">Tejido Humano</span>
+          </div>
+          <div class="col align-items-center d-flex flex-column">
+            <img src="images/6314ef01f4c52f8017099e92_logo_7.png" loading="lazy" width="120"
+            id="w-node-_0a62f26c-2ebf-65fa-c3b3-b9365e72ba54-ec556db0"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
+            srcset="images/6314ef01f4c52f8017099e92_logo_7-p-500.png 500w, images/6314ef01f4c52f8017099e92_logo_7.png 719w"
+            alt class="img-circle">
+            <span class="text-block-3">Comunidades</span>
+          </div>
+        </div>
+    </div>
     <div class="wf-section">
         <div class="row">
             <div class="col-lg-6 col-xs-12 column">
