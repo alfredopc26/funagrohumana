@@ -16,6 +16,8 @@
     <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link href="images/webclip.png" rel="apple-touch-icon">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
     <style>
         .list_icon{
             display: flex;
@@ -44,35 +46,36 @@
 </head>
 <body class="body">
     <a href="https://wa.me/573102494261" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
-    <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
-        role="banner" class="navigation w-nav">
-        <div class="navigation-items"><img
-                src="{{ URL::asset('images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted.png') }} "
-                width="235"
-                srcset="images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted-p-500.png 500w, images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted.png 543w"
-                sizes="(max-width: 479px) 100vw, 235px" alt class="logo-image">
-            <div class="navigation-wrap">
-                <div class="menu-button w-nav-button"><img src="images/62ebc5be17e0339926556dbd_menu-icon.png"
-                        width="22" alt class="menu-icon"></div>
-            </div>
-            <ul role="list" class="nav-menu w-list-unstyled">
-                <li><a href="/" class="nav-link {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
-                <li><a href="/esal" class="nav-link {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
-                <li><a href="/campanias" class="nav-link {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
-                <li><a href="/about" class="nav-link {{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
-                <li><a href="/wedo" class="nav-link {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
-                <li><a href="#" class="nav-link {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
-                <li><a href="/apoyanos" class="nav-link {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
-                <li><a href="/contactanos" class="nav-link {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
-                <li class="list_icon">
-                    <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
-                        height="30px"></a>
-                    <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro facebook"><img src="./images/facebook.png" alt="facebook" width="30px" height="30px"></a>
-                    <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro canal de youtube"><img src="./images/youtube.png" alt="youtube" width="30px" height="30px"></a>
-                </li>
+    <nav class="navbar navbar-expand-lg navigation">
+        <div class="container-fluid">
+          <a class="navbar-brand ps-lg-5" href="#"><img
+            src="{{ URL::asset('images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted.png') }} "
+            width="235"
+            srcset="images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted-p-500.png 500w, images/62ebc66ecb265c36ed57d4b4_FUNDACION%20AGROHUMANA%20%252B_Mesa%20de%20trabajo%201cuted.png 543w"
+            sizes="(max-width: 479px) 100vw, 235px" alt class="logo-image"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse ms-5" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a href="/" class="nav-link {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
+                <li class="nav-item"><a href="/esal" class="nav-link {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
+                <li class="nav-item"><a href="/campanias" class="nav-link {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
+                <li class="nav-item"><a href="/about" class="nav-link {{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
+                <li class="nav-item"><a href="/wedo" class="nav-link {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
+                <li class="nav-item"><a href="#" class="nav-link {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
+                <li class="nav-item"><a href="/apoyanos" class="nav-link {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
+                <li class="nav-item"><a href="contactanos" class="nav-link {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
             </ul>
+            <span class="list_icon">
+                <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
+                    height="30px"></a>
+                <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro facebook"><img src="./images/facebook.png" alt="facebook" width="30px" height="30px"></a>
+                <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro canal de youtube"><img src="./images/youtube.png" alt="youtube" width="30px" height="30px"></a>
+            </span>
+          </div>
         </div>
-    </div>
+      </nav>
     {{ $slot }}
     <section class="footer-dark wf-section">
         <div class="w-layout-grid grid-4 desktop">
@@ -86,7 +89,7 @@
                             <li>Carrera 23 No. 32B-14 Sabanalarga (Atlántico)</li>
                             <li>Calle 110 No. 6-361 Local 11 Barranquilla (Atlántico)</li>
                         </ul>
-                        <a class="address-aditional" href="https://api.whatsapp.com/send?phone=3102494261&text=Hola,%20encontre%20este%20contacto%20en%20la%20p%C3%A1gina%20web" target="_blank">
+                        <a class="address-aditional" href="https://wa.me/573102494261" target="_blank">
                             <img src="./images/whasapp_icon.png" alt="whatsapp icon" height="20" width="20">
                             <p> 310 249 4261</p>
                         </a>
