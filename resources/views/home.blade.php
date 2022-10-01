@@ -20,7 +20,10 @@
     <div class="wf-section">
         <div class="text-block"><span class="text-span">TRABAJANDO CON LA COMUNIDAD</span></div>
     </div>
-    <div class="container text-center my-5 d-none d-sm-block">
+    <div class="container my-5 d-none d-sm-block">
+        <div class="row">
+            <div class="project-class mb-4"><span class="text-span">PROYECTOS</span></div>
+        </div>
         <div class="row">
           <div class="col align-items-center d-flex flex-column">
             <img src="images/6312b5f91d848b2b2c63853f_logo_1.png" loading="lazy"

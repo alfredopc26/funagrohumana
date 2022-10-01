@@ -58,16 +58,16 @@
           </button>
           <div class="collapse navbar-collapse ms-5" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a href="/" class="nav-link {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
-                <li class="nav-item"><a href="/esal" class="nav-link {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
-                <li class="nav-item"><a href="/campanias" class="nav-link {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
-                <li class="nav-item"><a href="/about" class="nav-link {{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
-                <li class="nav-item"><a href="/wedo" class="nav-link {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
-                <li class="nav-item"><a href="#" class="nav-link {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
-                <li class="nav-item"><a href="/apoyanos" class="nav-link {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
-                <li class="nav-item"><a href="contactanos" class="nav-link {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
+                <li class="nav-item"><a href="/" class="nav-link fs-12 {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
+                <li class="nav-item"><a href="/esal" class="nav-link fs-12 {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
+                <li class="nav-item"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
+                <li class="nav-item"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
+                <li class="nav-item"><a href="/wedo" class="nav-link fs-12 {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
+                <li class="nav-item"><a href="#" class="nav-link fs-12 {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
+                <li class="nav-item"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
+                <li class="nav-item"><a href="contactanos" class="nav-link fs-12 {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
             </ul>
-            <span class="list_icon">
+            <span class="list_icon ">
                 <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
                     height="30px"></a>
                 <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro facebook"><img src="./images/facebook.png" alt="facebook" width="30px" height="30px"></a>
