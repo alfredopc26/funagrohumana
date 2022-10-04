@@ -2683,6 +2683,13 @@ figcaption {
   .icon_header{
     padding-right: 10px;
   }
+  .shadow-click{
+    cursor: pointer;
+  }
+  .shadow-click:hover{
+    border-radius: 95px !important;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  }
 }
 
 @media screen and (max-width: 991px) {
