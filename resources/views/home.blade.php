@@ -77,54 +77,54 @@
     </div>
     <div class="container text-center my-5 d-block d-sm-none">
         <div class="row">
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project1" >
             <img src="images/6312b5f91d848b2b2c63853f_logo_1.png" loading="lazy"
             id="w-node-_004316a6-eb88-ed66-3066-5876d801fefc-ec556db0" width="60"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6312b5f91d848b2b2c63853f_logo_1-p-500.png 500w, images/6312b5f91d848b2b2c63853f_logo_1.png 722w"
-            alt class="img-circle">
-            <span class="text-block-3">Hacia la reactivación del campo</span>
+            alt class="img-circle shadow-click">
+            <span class="text-block-3 ">Hacia la reactivación del campo</span>
           </div>
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project2">
             <img src="images/6312b84d5a579ccd536d00bf_logo_2.png" loading="lazy" width="120"
             id="w-node-b4602e6b-11c0-843e-8cd8-43f66641e1e1-ec556db0"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6312b84d5a579ccd536d00bf_logo_2-p-500.png 500w, images/6312b84d5a579ccd536d00bf_logo_2.png 722w"
-            alt class="img-circle">
+            alt class="img-circle shadow-click">
             <span class="text-block-3">Solidarios con el campo</span>
           </div>
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project3">
             <img src="images/6312b84dfa57c2e65992d8a2_logo_3.png" loading="lazy" width="120"
             id="w-node-ae32397b-c8c2-dc87-8a45-f17fe5026e13-ec556db0"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6312b84dfa57c2e65992d8a2_logo_3-p-500.png 500w, images/6312b84dfa57c2e65992d8a2_logo_3.png 722w"
-            alt class="img-circle">
+            alt class="img-circle shadow-click">
             <span class="text-block-3">Capacitaciones</span>
           </div>
         </div>
         <div class="row">
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project4">
             <img src="images/6314ef01cf6f3b357343adbc_logo_5.png" loading="lazy" width="120"
             id="w-node-_2f384935-823e-d451-c003-8437e4d5fcb9-ec556db0"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6314ef01cf6f3b357343adbc_logo_5-p-500.png 500w, images/6314ef01cf6f3b357343adbc_logo_5.png 719w"
-            alt class="img-circle">
+            alt class="img-circle shadow-click">
             <span class="text-block-3">Asociaciones Campesinas</span>
           </div>
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project5">
             <img src="images/6314ef01617b3d83cd89de94_logo_6.png" loading="lazy"
             id="w-node-b9fcbcd8-4ed3-c44e-04a8-848026105de0-ec556db0" width="120"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6314ef01617b3d83cd89de94_logo_6-p-500.png 500w, images/6314ef01617b3d83cd89de94_logo_6.png 719w"
-            alt class="img-circle">
+            alt class="img-circle shadow-click">
             <span class="text-block-3">Tejido Humano</span>
           </div>
-          <div class="col align-items-center d-flex flex-column">
+          <div class="col align-items-center d-flex flex-column" data-toggle="modal" data-target="#project6">
             <img src="images/6314ef01f4c52f8017099e92_logo_7.png" loading="lazy" width="120"
             id="w-node-_0a62f26c-2ebf-65fa-c3b3-b9365e72ba54-ec556db0"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 60px, 120px"
             srcset="images/6314ef01f4c52f8017099e92_logo_7-p-500.png 500w, images/6314ef01f4c52f8017099e92_logo_7.png 719w"
-            alt class="img-circle">
+            alt class="img-circle shadow-click">
             <span class="text-block-3">Comunidades</span>
           </div>
         </div>
@@ -206,7 +206,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title"></h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="section">
                     <div class="container">
@@ -219,6 +219,146 @@
                             </div>
                             <div class="col-lg-8">
                                 <img src="./images/charity.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="project2" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="section">
+                    <div class="container">
+                        <div class="row pt-5">
+                            <h2 class="hi-there-heading">Solidarios con el campo</h2>
+                        </div>
+                        <div class="row pb-5">
+                            <div class="col-lg-6">
+                                <p class="paragraph-light">Nuestro lema "Solidarios con el campo" viene de nuestro compromiso con la activación de zonas rurales productivas , crear consciencia ante el cambio climático y gestionar la base de recursos naturales de una manera sostenible.
+
+                                    Con el aumento de la población mundial es necesario incrementar y acelerar las áreas de siembras , ya que a mediano plazo será necesario satisfacer las crecientes necesidades del mundo.
+
+                                    Con el aumento en siembra de zonas verdes , contrarrestamos el efecto invernadero, desaceleramos el deterioro de la capa de ozono , la degradación ambiental y fortalecemos los suelos ante la erosión .</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="./images/solidario_campo.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="project3" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="section">
+                    <div class="container">
+                        <div class="row pt-5">
+                            <h2 class="hi-there-heading">Capacitaciones</h2>
+                        </div>
+                        <div class="row pb-5">
+                            <div class="col-lg-6">
+                                <p class="paragraph-light">Por medio de nuestro programa de capacitaciones , y con el apoyo de entidades privadas y gubernamentales, buscamos la trasferencia de conocimiento a traves de jornadas de campo , cursos presenciales , asesoramiento en maquinaria agrícola , orientación en el área financiera  , con aras de fortalecer el saber y conocimiento de los pequeños productores , siendo más productivos y competitivos .
+
+                                    El conocimiento y el saber es clave para una vía exitosa en la producción agrícola sostenible .</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="./images/charity.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="project4" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="section">
+                    <div class="container">
+                        <div class="row pt-5">
+                            <h2 class="hi-there-heading">Asociaciones Campesina</h2>
+                        </div>
+                        <div class="row pb-5">
+                            <div class="col-lg-6">
+                                <p class="paragraph-light">
+                                    En nuestra fundación vemos al campesino como el pilar de la agricultura y por ende de la cadena alimenticia.
+
+                                    En los países del tercer mundo como el nuestro , el campesino en su mayoría vive en condiciones marginadas , y mal retribuido , dependen su económica de pequeñas parcelas , por lo que optan en algunos de los casos a siembras de cultivos ilegales , por lo que vemos necesario el fortaleciendo de la asociaciones , cooperativas de pequeños agricultores , y poder crear un sistema rentable y sostenible.
+
+                                    Con la gestión de recursos  esperamos llegar a la mayor población rural posible y crear un ambiente amigable y lleno de consciencia de la importancia del cultivo de alimentos , ya que a corto plazo será al igual que el agua , los recursos más valiosos del planeta .</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="./images/charity.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="project5" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="section">
+                    <div class="container">
+                        <div class="row pt-5">
+                            <h2 class="hi-there-heading">Tejido Humano</h2>
+                        </div>
+                        <div class="row pb-5">
+                            <div class="col-lg-6">
+                                <p class="paragraph-light">incentivamos programas de bienestar social , creando sentido de pertenecía entre las comunidades , haciendo sentirse parte de una misma cultura y una misma tradición .
+
+                                    En la Fundación agrohumana interactuamos en la unión de individuos para el logro de necesidades humanas elementales o superiores tanto individuales como colectivas , y todo lo que represente mejor calidad de vida , logrando constituir una sociedad solidaria , firme y que haga valer sus derechos y los de los demás , fomentado así la unión y ayuda mutua , estimulando así la regeneración del tejido social .</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="./images/tejido_humano.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="project6" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="section">
+                    <div class="container">
+                        <div class="row pt-5">
+                            <h2 class="hi-there-heading">Comunidades</h2>
+                        </div>
+                        <div class="row pb-5">
+                            <div class="col-lg-6">
+                                <p class="paragraph-light">Trabajamos en el empoderamiento de las comunidades indígenas , campesinas , Afros , trabajando con liderazgo local , fomentando l organización de las familias en la comunidad y promoviendo el desarrollo comunitario a través de talleres de capacitación social , asesoría técnica y sistema de ayuda mutua .
+
+                                    Promovemos procesos participativos con las familias y apoyamos el trabajo comunitario .</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="./images/comunidades.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                             </div>
                         </div>
                     </div>
