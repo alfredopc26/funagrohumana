@@ -58,14 +58,13 @@
           </button>
           <div class="collapse navbar-collapse ms-5" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a href="/" class="nav-link fs-12 {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
-                <li class="nav-item"><a href="/esal" class="nav-link fs-12 {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
-                <li class="nav-item"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
-                <li class="nav-item"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
-                <li class="nav-item"><a href="/wedo" class="nav-link fs-12 {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
-                <li class="nav-item"><a href="#" class="nav-link fs-12 {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
-                <li class="nav-item"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
-                <li class="nav-item"><a href="contactanos" class="nav-link fs-12 {{ $id ==  'contact' ? 'active' : ''  }}"><strong>Contáctanos</strong></a></li>
+                <li class="nav-item d-flex"><a href="/" class="nav-link fs-12 {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
+                <li class="nav-item d-flex"><a href="/esal" class="nav-link fs-12 {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
+                <li class="nav-item d-flex"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
+                <li class="nav-item d-flex"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
+                <li class="nav-item d-flex"><a href="/wedo" class="nav-link fs-12 {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
+                <li class="nav-item d-flex"><a href="#" class="nav-link fs-12 {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
+                <li class="nav-item d-flex"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
             </ul>
             <span class="list_icon ">
                 <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
@@ -77,7 +76,8 @@
         </div>
       </nav>
     {{ $slot }}
-    <section class="footer-dark wf-section">
+
+    <section class="footer-dark wf-section" id="footer">
         <div class="w-layout-grid grid-4 desktop">
             <div id="w-node-db8099bc-1899-e621-9a35-95bf87e1fcaf-ec556db0" class="div-block img-footer"></div>
             <div id="w-node-_8ff25cfc-512f-0923-c468-fb4f4333c217-ec556db0" class="div-block">
@@ -120,7 +120,7 @@
             </div>
         </div>
     </section>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 </html>

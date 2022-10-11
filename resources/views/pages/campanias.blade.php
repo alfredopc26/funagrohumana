@@ -15,7 +15,7 @@
                     <p class="paragraph-light">Creamos programas con el fin de fomentar el crecimiento económico y social en las zonas rurales, favoreciendo a jóvenes, mujeres y campesinos.</p>
                     <h4 class="text-span">Hacia la reactivación del campo</h4>
                 </div>
-                <img src="./images/campanias_main.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                <img src="./images/campanias.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
             </div>
         </div>
     </div>
