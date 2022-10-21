@@ -122,5 +122,38 @@
     </section>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $('#notice1').modal('show');
+    });
+</script>
+<div id="notice1" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="section">
+                <div class="container">
+                    <div class="row pt-5">
+                        <h2 class="hi-there-heading">Noticias ℹ️</h2>
+                    </div>
+                    <div class="row pb-5">
+                        <div class="col-lg-6">
+                            <p class="paragraph-light">Amigo campesino , la fundación Agro Humana en alianza con el banco agrario , les extiende la invitación a su primera brigada de créditos que se realizará en nuestras oficinas ubicadas en el municipio de sabanalarga ,  el día martes 18 de octubre desde las 2.30 pm .</p>
+                            <p class="paragraph-light">Contamos con su presencia .</p>
+                            <p class="paragraph-light">Atentamente :</p>
+                            <p class="paragraph-light">Said ghisays .</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <img src="./images/notice1.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>
