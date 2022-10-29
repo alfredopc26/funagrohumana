@@ -40,3 +40,11 @@ Route::get('/apoyanos', function () {
 Route::get('/contactanos', function () {
     return view('pages.contactanos');
 });
+
+Route::get('/mision', function () {
+    return view('pages.mision');
+});
+
+Route::get('/vision', function () {
+    return view('pages.vision');
+});

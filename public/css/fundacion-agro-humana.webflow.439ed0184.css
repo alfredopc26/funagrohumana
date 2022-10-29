@@ -2694,6 +2694,11 @@ figcaption {
     border: solid 4px #10990b;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
   }
+
+  .px-18 {
+    padding-right: 18rem!important;
+    padding-left: 18rem!important;
+    }
 }
 
 @media screen and (max-width: 991px) {
@@ -3643,6 +3648,7 @@ figcaption {
   }
 
 }
+
 
 @media screen and (max-width: 479px) {
   .desktop{

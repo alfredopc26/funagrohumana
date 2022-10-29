@@ -114,7 +114,7 @@
         <div class="col-lg-6 col-xs-12">
             <h1 class="mb-5 pt-2 text-center fw-bold text-span">Blog y galería de
                 actividades</h1>
-            <div class="container align-items-center justify-content-center d-flex flex-wrap">
+            <div class="container align-items-center justify-content-center px-18">
                 <div class="row mb-5">
                     <div class="col">
                         <img src="images/6314f17c482ba7a0c28106e2_logo_8.png" loading="lazy"
@@ -186,8 +186,8 @@
                         </div>
                         <div class="row pb-5">
                             <div class="col-lg-6">
-                                <p class="paragraph-light">Nuestro objetivo es el fortalecimiento de la agricultura en diferentes zonas de la región caribe , haciéndola auto sostenible , con mayor crecimiento en las áreas de siembra y producción , por lo que le apuntamos xxxxxxxxx ante un mercado inestable .</p>
-                                <p class="paragraph-light">En Agro humana velamos por acelerar la productividad y eficiencia de los procesos productivos y seguridad alimentaria</p>
+                                <p class="paragraph-light">Nuestro objetivo es el fortalecimiento de la agricultura en diferentes zonas de la región caribe , haciéndola auto sostenible , con mayor crecimiento en las áreas de siembra y producción , por lo que le apuntamos a una agricultura mecanizada y tecnificada , mejorando los costos de producción , convirtiendo al pequeño y mediano productor competitivo ante un mercado inestable .</p>
+                                <p class="paragraph-light">En Agro humana velamos por acelerar la productividad y eficiencia de los procesos productivos y seguridad alimentaria.</p>
                             </div>
                             <div class="col-lg-6">
                                 <img src="./images/hacia_la_reactivacion.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">

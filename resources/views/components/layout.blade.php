@@ -45,7 +45,7 @@
     </style>
 </head>
 <body class="body">
-    <a href="https://wa.me/573102494261" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/573137501246" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
     <nav class="navbar navbar-expand-lg navigation">
         <div class="container-fluid">
           <a class="navbar-brand ps-lg-5" href="#"><img
@@ -59,6 +59,8 @@
           <div class="collapse navbar-collapse ms-5" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item d-flex"><a href="/" class="nav-link fs-12 {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
+                <li class="nav-item d-flex"><a href="/mision" class="nav-link fs-12{{ $id ==  'mision' ? 'active' : ''  }}"><strong>Misión</strong></a></li>
+                <li class="nav-item d-flex"><a href="/vision" class="nav-link fs-12{{ $id ==  'vision' ? 'active' : ''  }}"><strong>Visión</strong></a></li>
                 <li class="nav-item d-flex"><a href="/esal" class="nav-link fs-12 {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
                 <li class="nav-item d-flex"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
                 <li class="nav-item d-flex"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
@@ -89,13 +91,13 @@
                             <li>Carrera 23 No. 32B-14 Sabanalarga (Atlántico)</li>
                             <li>Calle 110 No. 6-361 Local 11 Barranquilla (Atlántico)</li>
                         </ul>
-                        <a class="address-aditional" href="https://wa.me/573102494261" target="_blank">
+                        <a class="address-aditional" href="https://wa.me/573137501246" target="_blank">
                             <img src="./images/whasapp_icon.png" alt="whatsapp icon" height="20" width="20">
-                            <p> 310 249 4261</p>
+                            <p> 313 750 1246 </p>
                         </a>
                         <a class="address-aditional" href="mailto:contacto@fundacionagrohumana.org">
                             <img src="./images/email_icon.png" alt="Email icon" height="20" width="20">
-                            <p> contacto@agrohumana.com</p>
+                            <p> contacto@fundacionagrohumana.com</p>
                         </a>
                         <a class="address-aditional" href="https://www.instagram.com/">
                             <img src="./images/insta_icon.png" alt="instagram icon" height="20" width="20">
@@ -123,9 +125,9 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 <script type="text/javascript">
-    $(window).on('load', function() {
-        $('#notice1').modal('show');
-    });
+    // $(window).on('load', function() {
+    //     $('#notice1').modal('show');
+    // });
 </script>
 <div id="notice1" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
