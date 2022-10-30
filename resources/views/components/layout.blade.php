@@ -65,7 +65,7 @@
                 <li class="nav-item d-flex"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
                 <li class="nav-item d-flex"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
                 <li class="nav-item d-flex"><a href="/wedo" class="nav-link fs-12 {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
-                <li class="nav-item d-flex"><a href="#" class="nav-link fs-12 {{ $id ==  'partner' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
+                <li class="nav-item d-flex"><a href="/aliados" class="nav-link fs-12 {{ $id ==  'aliados' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
                 <li class="nav-item d-flex"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
             </ul>
             <span class="list_icon ">

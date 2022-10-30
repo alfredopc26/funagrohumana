@@ -48,3 +48,7 @@ Route::get('/mision', function () {
 Route::get('/vision', function () {
     return view('pages.vision');
 });
+
+Route::get('/aliados', function () {
+    return view('pages.aliados');
+});
