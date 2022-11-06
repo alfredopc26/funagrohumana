@@ -69,7 +69,7 @@
                 <li class="nav-item d-flex"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
             </ul>
             <span class="list_icon ">
-                <a class="icon_header" href="#" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
+                <a class="icon_header" href="https://www.instagram.com/agro_humana" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
                     height="30px"></a>
                 <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro facebook"><img src="./images/facebook.png" alt="facebook" width="30px" height="30px"></a>
                 <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro canal de youtube"><img src="./images/youtube.png" alt="youtube" width="30px" height="30px"></a>
@@ -99,7 +99,7 @@
                             <img src="./images/email_icon.png" alt="Email icon" height="20" width="20">
                             <p> contacto@fundacionagrohumana.com</p>
                         </a>
-                        <a class="address-aditional" href="https://www.instagram.com/">
+                        <a class="address-aditional" href="https://www.instagram.com/agro_humana">
                             <img src="./images/insta_icon.png" alt="instagram icon" height="20" width="20">
                             <p>Agrohumana</p>
                         </a>
