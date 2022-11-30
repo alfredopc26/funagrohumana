@@ -21,7 +21,7 @@
                 <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                     <h2 class="hi-there-heading styleguide-content-wrap">COMO REALIZAR TU DONACIÓN.</h2>
                     <ul>
-                        <li>Puedes hacer tu aporte solidario a  nuestra cuenta de ahorros banco agrario No xxxxxxxxxx. </li>
+                        <li>Puedes hacer tu aporte solidario a nuestra cuenta de ahorros <b>Banco Agrario No 316200001881</b>, titular <b>Fundación Agro Humana.</b>  </li>
                         <li>Antes de hacer tu aporte infórmanos si deseas que el recurso sea destinado para la ejecución del algún proyecto en especifico o para cubrir gastos generales de la fundación.</li>
                         <li>Mediante trabajos comunitarios a través de voluntariados en participación de los programas y actividades que estaremos realizando.</li>
                         <li>Puedes aportar insumos , artículos , Implementos, y demás , solo escríbenos al correo xxxxxxx para coordinar la entrega .</li>

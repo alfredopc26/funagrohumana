@@ -24,7 +24,7 @@
                                 <div class="w-layout-grid about-intro-grid">
                                     <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                                         <h2 class="hi-there-heading">Banco agrario</h2>
-                                        <p class="paragraph-light"> Somos un Banco comercial, comprometido con el desarrollo rural que ofrece soluciones financieras integrales a sus clientes, creando valor a nuestros grupos de interés dentro de límites de riesgo tolerable, soportado en procesos y tecnología de calidad, y un equipo humano competente.</p>
+                                        <p class="paragraph-light"> La fundación Agro Humana Y El banco agrario ratifican su alianza para estimular la producción y mejorar la rentabilidad del sector agrícola mediante la renovación de cultivos, para lo cual la entidad bancaria ofrece financiación logrando así el cumplimiento de metas de nuestros afiliados.</p>
                                     </div>
                                     <img src="./images/Banco-agrario.png" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                                 </div>
@@ -37,7 +37,7 @@
                                 <div class="w-layout-grid about-intro-grid">
                                     <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                                         <h2 class="hi-there-heading">Agrosavia</h2>
-                                        <p class="paragraph-light">  La Corporación colombiana de investigación agropecuaria, AGROSAVIA, es una entidad pública descentralizada de participación mixta sin ánimo de lucro, de carácter científico y técnico, cuyo propósito es trabajar en la generación del conocimiento científico y el desarrollo tecnológico agropecuario a través de la investigación científica, la adaptación de tecnologías, la transferencia y la asesoría con el fin de mejorar la competitividad de la producción, la equidad en la distribución de los beneficios de la tecnología, la sostenibilidad en el uso de los recursos naturales, el fortalecimiento de la capacidad científica y tecnológica de Colombia y, contribuir a elevar la calidad de vida de la población.</p>
+                                        <p class="paragraph-light">En un trabajo mancomunado con nuestro gran aliado AGROSAVIA venimos   apoyando a pequeños y medianos productores en el desarrollo de tecnologías agrícolas, mediante la formulación de proyectos de impacto, que llegan a beneficiar a muchas familias campesinas, Tocamos puertas que nos apoyen en la búsqueda de recursos para la materialización de emprendimientos agrícolas, así trabajamos en esta gran alianza para lograr la gran reactivación agrícola en Colombia.</p>
                                     </div>
                                     <img src="./images/agrosavia.png" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                                 </div>
@@ -50,7 +50,7 @@
                                 <div class="w-layout-grid about-intro-grid">
                                     <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                                         <h2 class="hi-there-heading">Comfamiliar</h2>
-                                        <p class="paragraph-light"> La Caja de Compensación Familiar, COMFAMILIAR ATLÁNTICO, es una entidad privada sin ánimo de lucro, organizada como corporación que cumple funciones de Seguridad Social, y goza de personería jurídica conferida por medio de resolución No. 2794 del 11 de Octubre de 1957, otorgada por el Ministerio de Justicia.</p>
+                                        <p class="paragraph-light"> Gracias a nuestra alianza con confamiliar venimos fortaleciendo la ruta de empleabilidad para nuestros afiliados y sus familias, orientándolos en cómo aplicar de manera correcta a una oferta laboral, apoyándolos con la creación de su hoja de vida. </p>
                                     </div>
                                     <img src="./images/comfamiliar.jpg" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                                 </div>
@@ -63,7 +63,7 @@
                                 <div class="w-layout-grid about-intro-grid">
                                     <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                                         <h2 class="hi-there-heading">Sena</h2>
-                                        <p class="paragraph-light">Somos un establecimiento público del orden Nacional y con autonomía administrativa, adscrito al Ministerio del Trabajo.</p>
+                                        <p class="paragraph-light">El sena viene fortaleciendo la educación de nuestros afiliados mediante capacitaciones en los diferentes programas agrícolas, y con su gran oferta institucional para las familias de nuestros campesinos, adicional los apoyamos en la certificación de sus capacidades gracias al programa de certificación por competencia, donde nuestros afiliados que cuentan con una gran experiencia en un oficio, puedan certificarse y así formalizar su experiencia apostándole a la proyección de empleo. </p>
                                     </div>
                                     <img src="./images/sena.png" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                                 </div>
@@ -76,7 +76,7 @@
                                 <div class="w-layout-grid about-intro-grid">
                                     <div id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-71556db3" class="about-head-text-wrap">
                                         <h2 class="hi-there-heading">Agrotrac del Caribe</h2>
-                                        <p class="paragraph-light">AGROTRAC DEL CARIBE SAS ofrece a sus clientes el más amplio portafolio comercial en ventas y servicios agrícolas e industriales, transmitiéndoles soluciones a sus necesidades. Somos comercializadores de tractores KUBOTA e implementos agricolas.</p>
+                                        <p class="paragraph-light">Con un gran apoyo a nuestros campesinos, Agrotrac del caribe viene fortaleciendo mediante el conocimiento a nuestros afiliados con capacitaciones en el funcionamiento de maquinaria agrícola, al igual brindamos visitas técnicas donde realizamos calibración de maquinaria totalmente gratuitas gracias a la alianza con la fundación Agro Humana donde uno de los apoyos mas significativos para nuestros afiliados son los descuentos que Agrotrac ofrece en adquisición de repuestos, aceites, y llantas.</p>
                                     </div>
                                     <img src="./images/agrotrac.png" id="w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c8-71556db3" alt="">
                                 </div>
