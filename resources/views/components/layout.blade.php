@@ -59,24 +59,24 @@
           <div class="collapse navbar-collapse ms-5" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item d-flex"><a href="/" class="nav-link fs-12 {{ $id ==  'home' ? 'active' : ''  }}"><strong>Inicio</strong></a></li>
-                <li class="nav-item d-flex"><a href="/mision" class="nav-link fs-12{{ $id ==  'mision' ? 'active' : ''  }}"><strong>Misión</strong></a></li>
-                <li class="nav-item d-flex"><a href="/vision" class="nav-link fs-12{{ $id ==  'vision' ? 'active' : ''  }}"><strong>Visión</strong></a></li>
+                <li class="nav-item d-flex"><a href="/mision" class="nav-link fs-12 {{ $id ==  'mision' ? 'active' : ''  }}"><strong>Misión</strong></a></li>
+                <li class="nav-item d-flex"><a href="/vision" class="nav-link fs-12 {{ $id ==  'vision' ? 'active' : ''  }}"><strong>Visión</strong></a></li>
                 <li class="nav-item d-flex"><a href="/esal" class="nav-link fs-12 {{ $id ==  'esal' ? 'active' : ''  }}"><strong>Esal RTE</strong></a></li>
                 <li class="nav-item d-flex"><a href="/campanias" class="nav-link fs-12 {{ $id ==  'campaign' ? 'active' : ''  }}"><strong>Campañas</strong></a></li>
-                <li class="nav-item d-flex"><a href="/about" class="nav-link fs-12{{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
+                <li class="nav-item d-flex"><a href="/about" class="nav-link fs-12 {{ $id ==  'about' ? 'active' : ''  }}"><strong>Quienes somos</strong></a></li>
                 <li class="nav-item d-flex"><a href="/wedo" class="nav-link fs-12 {{ $id ==  'wedo' ? 'active' : ''  }}"><strong>Lo que hacemos</strong></a></li>
                 <li class="nav-item d-flex"><a href="/aliados" class="nav-link fs-12 {{ $id ==  'aliados' ? 'active' : ''  }}"><strong>Aliados</strong></a></li>
                 <li class="nav-item d-flex"><a href="/apoyanos" class="nav-link fs-12 {{ $id ==  'support' ? 'active' : ''  }}"><strong>Apóyanos</strong></a></li>
             </ul>
             <span class="list_icon ">
-                <a class="icon_header" href="https://www.instagram.com/agro_humana" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
+                <a class="icon_header" href="https://www.instagram.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro instagram"><img src="./images/instagram.png" alt="instagram" width="30px"
                     height="30px"></a>
                 <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro facebook"><img src="./images/facebook.png" alt="facebook" width="30px" height="30px"></a>
-                <a class="icon_header" href="https://www.facebook.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro canal de youtube"><img src="./images/youtube.png" alt="youtube" width="30px" height="30px"></a>
+                <a class="icon_header" href="https://www.youtube.com/@fundacionagrohumana3217" target="_blank" title="Ir a nuestro canal de youtube"><img src="./images/youtube.png" alt="youtube" width="30px" height="30px"></a>
             </span>
           </div>
         </div>
-      </nav>
+    </nav>
     {{ $slot }}
 
     <section class="footer-dark wf-section" id="footer">
@@ -95,13 +95,21 @@
                             <img src="./images/whasapp_icon.png" alt="whatsapp icon" height="20" width="20">
                             <p> 313 750 1246 </p>
                         </a>
-                        <a class="address-aditional" href="mailto:contacto@fundacionagrohumana.org">
+                        <a class="address-aditional" href="mailto:contacto@fundacionagrohumana.org" target="_blank">
                             <img src="./images/email_icon.png" alt="Email icon" height="20" width="20">
                             <p> contacto@fundacionagrohumana.com</p>
                         </a>
-                        <a class="address-aditional" href="https://www.instagram.com/agro_humana">
+                        <a class="address-aditional" href="https://www.instagram.com/fundacionagrohumana/" target="_blank" title="Ir a nuestro instagram">
                             <img src="./images/insta_icon.png" alt="instagram icon" height="20" width="20">
                             <p>Agrohumana</p>
+                        </a>
+                        <a class="address-aditional" href="https://www.facebook.com/fundacionagrohumana" target="_blank" title="Ir a nuestro facebook">
+                            <img src="./images/facebook.png" alt="facebook icon" height="20" width="20">
+                            <p>Fundación Agro Humana</p>
+                        </a>
+                        <a class="address-aditional" href="https://www.youtube.com/@fundacionagrohumana3217" target="_blank" title="Ir a nuestro youtube">
+                            <img src="./images/youtube.png" alt="youtube icon" height="20" width="20">
+                            <p>fundacionagrohumana</p>
                         </a>
                     </div>
                     </span>
